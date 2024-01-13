@@ -1,0 +1,12 @@
+project.lock.json
+project.fragment.lock.json
+artifacts/
+.vscode/
+*.cab
+*.msi
+*.msm
+*.msp
+bin
+obj
+.config
+ReminderCli.sln
